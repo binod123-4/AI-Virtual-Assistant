@@ -1,0 +1,130 @@
+{
+  "facts": [],
+  "dialog": [
+    {
+      "role": "user",
+      "content": "help",
+      "ts": "2025-09-04T23:23:08"
+    },
+    {
+      "role": "user",
+      "content": "what are you doing what are you doing",
+      "ts": "2025-09-04T23:23:35"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-********here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+      "ts": "2025-09-04T23:23:36"
+    },
+    {
+      "role": "user",
+      "content": "what are you doing",
+      "ts": "2025-09-04T23:28:55"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-********here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+      "ts": "2025-09-04T23:28:56"
+    },
+    {
+      "role": "user",
+      "content": "what are you doing",
+      "ts": "2025-09-04T23:41:33"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-*********here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+      "ts": "2025-09-04T23:41:33"
+    },
+    {
+      "role": "user",
+      "content": "what are you doing",
+      "ts": "2025-09-04T23:43:59"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM unavailable) what are you doing",
+      "ts": "2025-09-04T23:43:59"
+    },
+    {
+      "role": "user",
+      "content": "help",
+      "ts": "2025-09-04T23:44:12"
+    },
+    {
+      "role": "user",
+      "content": "",
+      "ts": "2025-09-04T23:47:07"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM unavailable) ",
+      "ts": "2025-09-04T23:47:07"
+    },
+    {
+      "role": "user",
+      "content": "help",
+      "ts": "2025-09-04T23:48:21"
+    },
+    {
+      "role": "user",
+      "content": "hello",
+      "ts": "2025-09-04T23:48:29"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM unavailable) hello",
+      "ts": "2025-09-04T23:48:29"
+    },
+    {
+      "role": "user",
+      "content": "what are you doing",
+      "ts": "2025-09-05T00:05:50"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "ts": "2025-09-05T00:05:56"
+    },
+    {
+      "role": "user",
+      "content": "hello",
+      "ts": "2025-09-05T00:06:28"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "ts": "2025-09-05T00:06:31"
+    },
+    {
+      "role": "user",
+      "content": "open youtube",
+      "ts": "2025-09-22T21:57:07"
+    },
+    {
+      "role": "assistant",
+      "content": "Unknown app. Try a URL or one of: chrome, edge, notepad, calculator, vscode",
+      "ts": "2025-09-22T21:57:07"
+    },
+    {
+      "role": "user",
+      "content": "open crome",
+      "ts": "2025-09-22T21:57:20"
+    },
+    {
+      "role": "assistant",
+      "content": "Unknown app. Try a URL or one of: chrome, edge, notepad, calculator, vscode",
+      "ts": "2025-09-22T21:57:20"
+    },
+    {
+      "role": "user",
+      "content": "www.crome.in",
+      "ts": "2025-09-22T21:57:41"
+    },
+    {
+      "role": "assistant",
+      "content": "(LLM error) Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "ts": "2025-09-22T21:57:51"
+    }
+  ]
+}
